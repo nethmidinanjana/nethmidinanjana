@@ -16,3 +16,5 @@ Here are some ideas to get you started: -->
 
 
 💪 I believe in the power of continuous improvement, and I'm always looking for ways to level up my skills. If you have any recommendations for resources or tools, please feel free to share them!
+
+🛡️ I have a strong interest in cybersecurity, with a focus on ensuring digital safety and protecting data from threats and vulnerabilities.
