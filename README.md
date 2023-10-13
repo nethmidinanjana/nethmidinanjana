@@ -14,3 +14,5 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: When I'm not immersed in the world of coding and software, you can often find me practicing the art of Wushu (Sanda fighting) . I believe that having diverse interests outside of work keeps life exciting and balanced.
 
+
+💪 I believe in the power of continuous improvement, and I'm always looking for ways to level up my skills. If you have any recommendations for resources or tools, please feel free to share them!
