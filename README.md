@@ -17,4 +17,6 @@ Here are some ideas to get you started: -->
 
 💪 I believe in the power of continuous improvement, and I'm always looking for ways to level up my skills. If you have any recommendations for resources or tools, please feel free to share them!
 
-🛡️ I have a strong interest in cybersecurity, with a focus on ensuring digital safety and protecting data from threats and vulnerabilities.
+🛡️ I have a strong interest in cybersecurity, with a focus on ensuring digital safety and protecting data from threats and vulnerabilities. 
+
+![DaddyDrakeGIF](https://github.com/nethmidinanjana/nethmidinanjana/assets/147496045/a9043ce5-d4f3-4b8b-bb72-2237d13215d1)
