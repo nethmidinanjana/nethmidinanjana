@@ -2,7 +2,7 @@
 <p align="left">I'm passionate about building user-friendly web applications and working with various technologies like JavaScript, TypeScript, React, and Java. Currently, I'm developing my skills in full-stack development, exploring frameworks such as Next.js and Nest.js. When I'm not coding, I enjoy learning new technologies, contributing to team projects, and solving challenging problems.</p>
 
 <p align="left">Below, you'll find my tech stack and connection details:</p>
-###
+
 
 <img align="right" height="120" src="https://i.imgflip.com/65efzo.gif"  />
 
