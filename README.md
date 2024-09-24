@@ -1,21 +1,49 @@
-### Hi there 👋
+<h2 align="left">Hi 👋! My name is Nethmi DInanjana. and I'm a Software Developer, from Sri Lanka</h2>
 
+###
 
-<!-- **nethmidinanjana/nethmidinanjana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-Here are some ideas to get you started: -->
+###
 
-- 🎓 I'm an undergraduate software engineering student with a passion for web development. I enjoy exploring the endless possibilities that the world of software development offers and am excited to contribute to the ever-evolving tech industry.
-- 🌱 Currently, I'm dedicated to expanding my knowledge in software development, constantly learning new technologies and honing my programming skills.
-- 👯 I'm actively seeking opportunities to collaborate on web development projects, whether it's creating websites, web applications, or diving into open-source initiatives. I believe that teamwork and collaboration are essential in our field.
-- 🤔 While I'm enthusiastic about learning, I'm always open to receiving help and guidance from experienced developers who can mentor me and provide insights into best practices in software engineering.
-- 💬 Feel free to ask me about anything related to web development, coding, or software engineering. I'm here to share my knowledge and engage in insightful discussions.
-- 📫 You can reach out to me via email at [nethmidinanjana@gmail.com] to discuss potential collaboration or just chat about tech and development.
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: When I'm not immersed in the world of coding and software, you can often find me practicing the art of Wushu (Sanda fighting) . I believe that having diverse interests outside of work keeps life exciting and balanced.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
+###
 
-💪 I believe in the power of continuous improvement, and I'm always looking for ways to level up my skills. If you have any recommendations for resources or tools, please feel free to share them!
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-🛡️ I have a strong interest in cybersecurity, with a focus on ensuring digital safety and protecting data from threats and vulnerabilities. 
+###
 
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
